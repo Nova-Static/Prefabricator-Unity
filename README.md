@@ -14,7 +14,7 @@ Head over to the releases tab and download the Prefabricator.unitypackage.
 # Instructions
 Create an empty gameobject.
 
-Assign the "Prefab Collection" component to the empty gameobject.
+Assign the "Prefab Collection" script to the empty gameobject.
 
 Input the amount of prefabs you'd like it to choose from in the size options.
 
